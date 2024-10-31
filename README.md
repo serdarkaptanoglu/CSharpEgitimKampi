@@ -13,3 +13,5 @@ Bu repo, Murat Yücedağ'ın eğitmenliğinde gerçekleştirilen C# Eğitim Kamp
 <p>Aynı veri türündeki birden fazla değeri bir dizi içinde nasıl saklayacağımı ve döngülerle bu değerleri nasıl işleyebileceğimi öğrendim. Dizideki elemanları dolaşmak için for, foreach gibi döngü yapılarını kullandım. </p>
 <h2> Proje 7: Foreach Döngüsü ve Sınav Sistemi</h2>
 <p>Projede, foreach döngüsüyle bir sınav sistemi simülasyonu oluşturdum. Öğrencilerin sınav notlarını alarak ortalamalarını, geçme/kalma durumlarını hesapladım. </p>
+<h2> Proje 8: Metotlar (Methods)</h2>
+<p>Kodlarımı daha düzenli ve tekrar kullanılabilir hale getirmek için metotlar oluşturmayı öğrendim. Parametre alarak işlem yapan ve sonuç döndüren metotlar yazmayı denedim. </p>
